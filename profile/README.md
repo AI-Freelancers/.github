@@ -74,6 +74,6 @@ Have an **AI, Machine Learning, Data Science, or Generative AI project**?
 We would be happy to discuss your needs and explore how we can help.
 
 **📧 Email:** `ihaddaden.safa.amina@gmail.com`
-**💼 LinkedIn:** `https://www.linkedin.com/in/safa-amina-ihaddaden/`
+
 
 ---
