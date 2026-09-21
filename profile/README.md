@@ -217,7 +217,7 @@ Interested in working with us or discussing a project? Get in touch.
 
 <div align="center">
 
-**IA Freelancers** — AI & Data Science Engineering
+**AI Freelancers** — AI & Data Science Engineering
 
 *From data to deployed intelligence.*
 
