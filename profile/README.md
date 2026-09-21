@@ -20,7 +20,7 @@
 
 ## Who We Are
 
-**IA Freelancers** is an independent team of three freelance engineers specialized in **Artificial Intelligence** and **Data Science**.
+**IA Freelancers** is a team of three freelance engineers specialized in **Artificial Intelligence** and **Data Science**.
 
 We partner with companies, startups and agencies to design, build and deploy AI solutions that solve real business problems — from raw data exploration to fully integrated systems running in production.
 
@@ -39,21 +39,21 @@ We work end-to-end: **understanding the business need → exploiting the data �
 ### 1. Data Science & Data Analytics
 Making sense of your data before building anything on top of it.
 
-- Data exploration, cleaning and preparation (EDA)
+- Fundamental and technical data analysis
 - Statistical analysis and hypothesis testing
-- Feature engineering and data pipelines
-- Interactive dashboards and business reporting
-- KPI definition and data-driven decision support
+- Data visualization
+- Business Intelligence (BI)
+- KPI analysis and data-driven insights
 
-### 2. Machine Learning & Predictive Analytics
-Predicting outcomes to anticipate rather than react.
+### 2. Machine Learning & AI Models
 
-- Classification, regression and clustering models
-- Demand, sales and churn forecasting
-- Recommendation engines
-- Anomaly and fraud detection
-- Time series analysis and forecasting
-- Model evaluation, tuning and interpretability
+- Predictive modeling
+- Classification
+- Regression
+- Clustering
+- Anomaly detection
+- Recommendation systems
+- Deep Learning — RNNs, CNNs, Transformers
 
 ### 3. Deep Learning
 Advanced neural architectures for complex, high-dimensional problems.
@@ -66,10 +66,11 @@ Advanced neural architectures for complex, high-dimensional problems.
 ### 4. Computer Vision
 Giving software the ability to understand images and video.
 
-- Image classification and object detection
-- Image segmentation and OCR / document understanding
-- Quality control and visual inspection
-- Video analysis and real-time detection pipelines
+- Image classification
+- Object detection
+- Image segmentation
+- OCR
+- Image and video analysis
 
 ### 5. NLP — Natural Language Processing
 Extracting meaning and structure from text.
@@ -86,17 +87,14 @@ Leveraging large language models for business use cases.
 - LLM-powered applications and assistants
 - Prompt engineering and optimization
 - Fine-tuning and domain adaptation
-- Structured generation and content automation
-- Model selection, benchmarking and cost/performance arbitration
 
 ### 7. RAG — Retrieval-Augmented Generation
 Connecting LLMs to your own knowledge base.
 
-- Private document assistants and internal knowledge bots
-- Document ingestion, chunking and embedding pipelines
-- Vector database design and indexing
-- Hybrid and semantic search strategies
-- Grounded answers with source citation and hallucination control
+- AI assistants connected to private documents
+- Knowledge base search and retrieval
+- LLMs connected to databases and document collections
+- Context-aware answer generation
 
 ### 8. AI Agents & Intelligent Automation
 Autonomous systems that reason, decide and act.
@@ -211,7 +209,7 @@ We can intervene on:
 
 Interested in working with us or discussing a project? Get in touch.
 
-📧 **Email** — `contact@example.com`
+📧 **Email** — `ihaddaden.safa.amina@gmail.com`
 
 *We'll get back to you with an initial assessment of your need and the most relevant approach.*
 
@@ -219,7 +217,7 @@ Interested in working with us or discussing a project? Get in touch.
 
 <div align="center">
 
-**IA Freelancers** — Independent AI & Data Science Engineering
+**IA Freelancers** — AI & Data Science Engineering
 
 *From data to deployed intelligence.*
 
