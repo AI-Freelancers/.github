@@ -1,6 +1,6 @@
 <div align="center">
 
-# IA Freelancers
+# AI Freelancers
 
 **A team of three freelance AI & Data Science engineers**
 
@@ -20,7 +20,7 @@
 
 ## Who We Are
 
-**IA Freelancers** is a team of three freelance engineers specialized in **Artificial Intelligence** and **Data Science**.
+**AI Freelancers** is a team of three freelance engineers specialized in **Artificial Intelligence** and **Data Science**.
 
 We partner with companies, startups and agencies to design, build and deploy AI solutions that solve real business problems — from raw data exploration to fully integrated systems running in production.
 
