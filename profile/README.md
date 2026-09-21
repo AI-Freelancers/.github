@@ -46,7 +46,7 @@ Making sense of your data before building anything on top of it.
 - KPI analysis and data-driven insights
 
 ### 2. Machine Learning & AI Models
-
+Build AI models that learn from data to predict, classify, discover patterns, and automate decisions.
 - Predictive modeling
 - Classification
 - Regression
