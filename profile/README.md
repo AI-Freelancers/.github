@@ -53,7 +53,6 @@ Build AI models that learn from data to predict, classify, discover patterns, an
 - Clustering
 - Anomaly detection
 - Recommendation systems
-- Deep Learning — RNNs, CNNs, Transformers
 
 ### 3. Deep Learning
 Advanced neural architectures for complex, high-dimensional problems.
